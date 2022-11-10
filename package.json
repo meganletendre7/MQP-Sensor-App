@@ -1,0 +1,12 @@
+{
+    "name": "sensor_app",
+    "version": "0.1.0",
+    "description": "Wizard of Oz solution to send data to application.",
+    "author": "Megan Letendre",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "mime": "^2.4.4"
+    }
+  }
